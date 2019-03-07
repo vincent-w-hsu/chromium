@@ -1,6 +1,6 @@
 # ![Logo](chrome/app/theme/chromium/AcerChromiumBrowser_logo_64.png) Acer Chromium Browser for WebVR
 
-Base on Chromium, we release an Acer Chromium Browser for WebVR (Experimental). 
+Base on Chromium, we release an Acer Chromium Browser for WebVR (Experimental).  
 With Acer Windows Mixed Reality Headset, you can experience VR in Acer Chromium Browser just by clicking A link.
 
 Download and install Acer Chromium Browser for WebVR (Experimental) msi installer on Windows 10.
