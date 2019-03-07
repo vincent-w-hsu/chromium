@@ -5,6 +5,6 @@ Base on Chromium, Acer release an Acer Chromium Browser for WebVR. With your Ace
 Download and install Acer Chromium Browser for WebVR (Experimental) binary msi installer on Windows 10.
 [AcerChromiumBrowserforWebVR-Experimental.zip](https://github.com/aileolin1981/chromium/releases/tag/Acer-Chromiun-Browser-v1.00.1001)
 
-Acer Chromium Browser for WebVR UWP is needed for VR experience. The UWP application binary will be installed by AcerChromiumBrowserforWebVR(experimental).msi
+Acer Chromium Browser for WebVR UWP application is needed for VR experience. This UWP application will be installed by AcerChromiumBrowserforWebVR(experimental).msi installer.
 
 For more VR experience, visit Acer Start Page web site https://acerwebvr.github.io/
